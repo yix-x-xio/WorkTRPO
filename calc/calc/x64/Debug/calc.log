@@ -1,0 +1,6 @@
+﻿  calc.cpp
+C:\Users\User\Desktop\Лабораторная 11\calc\calc\calc.cpp(28,12): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+C:\Users\User\Desktop\Лабораторная 11\calc\calc\calc.cpp(29,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+  Source.cpp
+  Создание кода...
+  calc.vcxproj -> C:\Users\User\Desktop\Лабораторная 11\calc\x64\Debug\calc.exe
